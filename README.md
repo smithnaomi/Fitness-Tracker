@@ -29,8 +29,7 @@ _by Naomi Smith_
 
 ## Usage
 
-<!--
-![Live Demo](assets/EG.gif) -->
+![Live Demo](https://glacial-inlet-54901.herokuapp.com/
 
 # Test
 
