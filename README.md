@@ -1,39 +1,42 @@
 # Fitness-Tracker
 
-_by Naomi Smith_
+_Naomi Smith_
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Build](#build)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Tests](#tests)
-- [Questions](#questions)
-- [License](#license)
+- [Overview](#Overview)
+- [Build](#Build)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [Questions](#Questions)
+- [License](#License)
 
 ## Overview
 
-<!-- <p> A functional backend for an e-commerce platform. Using sequelize to interact with  MySQL database; which was added to an environment variable file. Creating models and the listing the requirements listed for each one. Using Insomnia Core to display data for category, products and tags. Once the data for these routes are displayed API post, put and delete are tested. The test provides the ability to successfully create, update and delete data in the database.  <p> -->
+<p> New Year,New You! The fitness Tracker can help you track your workouts. You will be able to view create and track daily workouts. Ability to log multiple exercises in a workout on a given day. Personal growth is key, this application allows you to track  name, type, weight, sets, reps, and duration of exercise. This will help you see your achievements. If the exercise is a cardio exercise, you will be able to track my distance traveled. Lets meet this new you together and use the Fitness Tracker to help. <p>
 
 ## Build
 
-<!-- - [MySQL](https://www.mysql.com/)
-- [Insomnia](https://insomnia.rest/) -->
+- [Node](https://nodejs.org/en/about/)
+- [Heroku](https://www.heroku.com/what)
+- [MongoDB](https://www.mongodb.com/)
 
 ## Installation
 
-<!-- - [MySQL2](https://www.npmjs.com/package/mysql2)
-- [Sequelize](https://www.npmjs.com/package/sequelize)
-- [dotenv](https://www.npmjs.com/package/dotenv) -->
+To install the application you will need nodeJS and use npm install to get all the related packages for this project. In the terminal type npm run develop to interact with the application on your localhost.
 
 ## Usage
 
-![Live Demo](https://glacial-inlet-54901.herokuapp.com/
+![Fitness Tracker](assets/fitness.png)
 
-# Test
+### Live Webpage
 
-<!-- <p>In the terminal run command: node server.js<p> -->
+[Live Demo](https://glacial-inlet-54901.herokuapp.com/)
+
+## Contributing
+
+Please reach out via provided Github or Email
 
 ## Questions
 
